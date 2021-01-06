@@ -1,4 +1,4 @@
-package UserManagementService;
+package com.example.demo;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
